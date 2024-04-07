@@ -1,6 +1,6 @@
 {
   "name": "t2r_currency_converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"Effortlessly convert currencies with our user-friendly currency converter tool.\"",
   "main": "index.js",
   "type": "module",
